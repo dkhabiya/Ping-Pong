@@ -10,7 +10,7 @@ body {
 
 #playerScore, #computerScore {
 	width: 18%;
-	padding: 3%;
+	padding: 2.5%;
 	font-style: bold;
 }
 
@@ -22,6 +22,6 @@ body {
 
 p {
 	text-align: center;
-	padding: 5px;
+	padding: 3px;
 	margin: 0;
 }
