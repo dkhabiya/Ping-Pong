@@ -1,5 +1,6 @@
 body {
 	font-family: 'Tahoma';
+	font-weight: bold;
 }
 
 #container {
@@ -19,3 +20,8 @@ body {
     margin: 0 auto;
 }
 
+p {
+	text-align: center;
+	padding: 5px;
+	margin: 0;
+}
