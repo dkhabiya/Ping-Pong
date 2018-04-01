@@ -8,10 +8,9 @@ body {
 	justify-content: center;
 }
 
-#playerScore, #computerScore {
+#leftContainer, #computerScore {
 	width: 18%;
 	padding: 2.5%;
-	font-style: bold;
 }
 
 #gameCanvas {
@@ -24,4 +23,15 @@ p {
 	text-align: center;
 	padding: 3px;
 	margin: 0;
+}
+
+#leftContainer {
+	position: relative;
+}
+
+#message {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding-bottom: 15%;
 }
